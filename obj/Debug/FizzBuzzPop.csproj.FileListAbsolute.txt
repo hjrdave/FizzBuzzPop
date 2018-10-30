@@ -1,0 +1,7 @@
+C:\Users\dsand\Source\Repos\FizzBuzzPop\FizzBuzzPop\obj\Debug\FizzBuzzPop.csprojAssemblyReference.cache
+C:\Users\dsand\Source\Repos\FizzBuzzPop\FizzBuzzPop\obj\Debug\FizzBuzzPop.csproj.CoreCompileInputs.cache
+C:\Users\dsand\Source\Repos\FizzBuzzPop\FizzBuzzPop\bin\Debug\FizzBuzzPop.exe.config
+C:\Users\dsand\Source\Repos\FizzBuzzPop\FizzBuzzPop\bin\Debug\FizzBuzzPop.exe
+C:\Users\dsand\Source\Repos\FizzBuzzPop\FizzBuzzPop\bin\Debug\FizzBuzzPop.pdb
+C:\Users\dsand\Source\Repos\FizzBuzzPop\FizzBuzzPop\obj\Debug\FizzBuzzPop.exe
+C:\Users\dsand\Source\Repos\FizzBuzzPop\FizzBuzzPop\obj\Debug\FizzBuzzPop.pdb
